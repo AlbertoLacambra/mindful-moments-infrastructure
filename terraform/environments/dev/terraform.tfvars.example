@@ -1,0 +1,10 @@
+# PostgreSQL administrator password (required)
+postgres_admin_password = "CHANGE_ME_TO_SECURE_PASSWORD"
+
+# Email for alert notifications (required)
+alert_email = "your.email@example.com"
+
+# Optional overrides
+# environment = "dev"
+# location = "westeurope"
+# owner = "alberto.lacambra"
